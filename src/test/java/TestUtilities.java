@@ -301,6 +301,8 @@ public class TestUtilities {
 	 */
 	@BeforeAll
 	public static void testEnvironment() {
+		System.out.println("Expected: " + EXPECTED_PATH);
+		
 		try {
 			Files.createDirectories(ACTUAL_PATH);
 		}
@@ -309,9 +311,10 @@ public class TestUtilities {
 		}
 
 		try {
-			if (NIX) {
+			// only make Windows files if necessary
+			if (!NIX) {
 				List<Path> copied = copyExpected();
-				System.out.println("Copied " + copied.size() + " files.");
+				System.out.println("Copied: " + copied.size() + " files.");
 				copied.forEach(System.out::println);
 				System.out.println();
 			}
@@ -324,8 +327,6 @@ public class TestUtilities {
 		Assertions.assertTrue(Files.isWritable(ACTUAL_PATH), ACTUAL_PATH.toString());
 		Assertions.assertTrue(Files.isDirectory(TEXT_PATH), TEXT_PATH.toString());
 		Assertions.assertTrue(Files.isDirectory(QUERY_PATH), QUERY_PATH.toString());
-		
-		System.out.println("Expected: " + EXPECTED_PATH);
 	}
 	
 	/**
@@ -349,20 +350,9 @@ public class TestUtilities {
 				// check if we need to re-copy the expected file
 				if (Files.isRegularFile(path)) {
 					if (!Files.isReadable(other) || Files.size(path) != Files.size(other)) {
-						try (
-								BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_8);
-								BufferedWriter writer = Files.newBufferedWriter(other, StandardCharsets.UTF_8);
-						) {
-							while (reader.ready()) {
-								// convert path separators to windows version
-								String line = reader.readLine();
-								writer.write(line.replace('/', '\\'));
-								writer.write('\n');
-							}
-							
-							writer.flush();
-						}
-						
+						String original = Files.readString(path, StandardCharsets.UTF_8);
+						String modified = original.replace('/', '\\');
+						Files.writeString(other, modified, StandardCharsets.UTF_8);
 						copied.add(other);
 					}
 				}
