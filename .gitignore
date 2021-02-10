@@ -1,5 +1,6 @@
 # project-specific
 actual/
+expected-win/
 index.json
 locations.json
 words.json
