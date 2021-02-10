@@ -1,12 +1,18 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.FileVisitOption;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
@@ -19,11 +25,14 @@ import org.junit.jupiter.api.BeforeAll;
  * @version Spring 2021
  */
 public class TestUtilities {
+	/** Detect whether paths are Unix-like (true for Linux, Mac, but not Windows) */
+	public static final boolean NIX = File.separator.equals("/");
+	
 	/** Path to the actual output files. */
 	public static final Path ACTUAL_PATH = Path.of("actual");
 	
 	/** Path to the expected output files (based on type of slash). */
-	public static final Path EXPECTED_PATH = Path.of(File.separator.equals("/") ? "expected-mac" : "expected-win");
+	public static final Path EXPECTED_PATH = Path.of(NIX ? "expected" : "expected-win");
 	
 	/** Path to the input files. */
 	public static final Path INPUT_PATH = Path.of("input");
@@ -100,25 +109,6 @@ public class TestUtilities {
 		Path working = Path.of(".").toAbsolutePath().normalize();
 		return String.format(ERROR_FORMAT, working.toString(), actual.toString(),
 				expected.toString(), String.join(" ", args), message);
-	}
-
-	/**
-	 * Checks whether environment setup is correct, with a input and output
-	 * directory located within the base directory.
-	 *
-	 * @return true if expected paths are found and readable/writable
-	 */
-	public static boolean isEnvironmentSetup() {
-		try {
-			Files.createDirectories(ACTUAL_PATH);
-		}
-		catch (IOException e) {
-			System.err.println("Unable to create actual output directory.");
-			return false;
-		}
-
-		return Files.isReadable(EXPECTED_PATH) && Files.isWritable(ACTUAL_PATH)
-				&& Files.isDirectory(TEXT_PATH) && Files.isDirectory(QUERY_PATH);
 	}
 
 	/**
@@ -318,9 +308,70 @@ public class TestUtilities {
 			Assertions.fail("Unable to create actual output directory.");
 		}
 
+		try {
+			if (NIX) {
+				List<Path> copied = copyExpected();
+				System.out.println("Copied " + copied.size() + " files.");
+				copied.forEach(System.out::println);
+				System.out.println();
+			}
+		}
+		catch (IOException e) {
+			Assertions.fail("Unable to copy expected files for Windows systems.");
+		}
+
 		Assertions.assertTrue(Files.isReadable(EXPECTED_PATH), EXPECTED_PATH.toString());
 		Assertions.assertTrue(Files.isWritable(ACTUAL_PATH), ACTUAL_PATH.toString());
 		Assertions.assertTrue(Files.isDirectory(TEXT_PATH), TEXT_PATH.toString());
 		Assertions.assertTrue(Files.isDirectory(QUERY_PATH), QUERY_PATH.toString());
+		
+		System.out.println("Expected: " + EXPECTED_PATH);
 	}
+	
+	/**
+	 * Copies the expected files for Unix-like operating systems to expected
+	 * files for Windows operating systems.
+	 * 
+	 * @return all of the files copied
+	 * @throws IOException if an IO error occurs
+	 */
+	public static List<Path> copyExpected() throws IOException {
+		List<Path> copied = new ArrayList<>();
+		Path nix = Path.of("expected");
+		Path win = Path.of("expected-win");
+		
+		// loop through each expected file
+		try (Stream<Path> stream = Files.walk(nix, FileVisitOption.FOLLOW_LINKS)) {
+			for (Path path : stream.collect(Collectors.toList())) {
+				// path for windows version of expected file
+				Path other = win.resolve(nix.relativize(path));
+
+				// check if we need to re-copy the expected file
+				if (Files.isRegularFile(path)) {
+					if (!Files.isReadable(other) || Files.size(path) != Files.size(other)) {
+						try (
+								BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_8);
+								BufferedWriter writer = Files.newBufferedWriter(other, StandardCharsets.UTF_8);
+						) {
+							while (reader.ready()) {
+								// convert path separators to windows version
+								String line = reader.readLine();
+								writer.write(line.replace('/', '\\'));
+								writer.write('\n');
+							}
+							
+							writer.flush();
+						}
+						
+						copied.add(other);
+					}
+				}
+				else if (Files.isDirectory(path) && !Files.exists(other)) {
+					Files.createDirectories(other);
+				}
+			}
+		}
+		
+		return copied;
+	}	
 }
