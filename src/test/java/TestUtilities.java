@@ -362,5 +362,5 @@ public class TestUtilities {
 		}
 		
 		return copied;
-	}	
+	}
 }
