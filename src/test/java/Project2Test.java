@@ -364,7 +364,7 @@ public class Project2Test extends TestUtilities {
 
 			testNoExceptions(args, SHORT_TIMEOUT);
 
-			// make sure a new results.json was not created (but index.json was not)
+			// make sure a new (but empty) results.json was created (but index.json was not)
 			Assertions.assertTrue(Files.exists(RESULTS_DEFAULT)
 					&& !Files.exists(INDEX_DEFAULT));
 		}
