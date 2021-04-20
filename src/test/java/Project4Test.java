@@ -182,7 +182,6 @@ public class Project4Test extends TestUtilities {
 		/** Tests project output. */
 		@Test
 		@Order(12)
-		@Tag("verify")
 		public void testJava() {
 			String seed = "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html";
 			testIndex(seed, "other", 50);
@@ -271,7 +270,6 @@ public class Project4Test extends TestUtilities {
 		 */
 		@Test
 		@Order(8)
-		@Tag("verify")
 		public void testJava() {
 			String link = "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html";
 			testCounts(link, 50);
