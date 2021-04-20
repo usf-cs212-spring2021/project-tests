@@ -1,0 +1,38 @@
+{
+	"ant perf": [
+	],
+	"capybara hidden": [
+	],
+	"cardin": [
+	],
+	"four six": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/simple/",
+			"count": 1,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/simple/position.html",
+			"count": 2,
+			"score": 0.10000000
+		}
+	],
+	"hello world": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/simple/hello.html",
+			"count": 8,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/simple/",
+			"count": 1,
+			"score": 0.14285714
+		}
+	],
+	"lori": [
+	],
+	"observ perfor": [
+	],
+	"perform": [
+	]
+}

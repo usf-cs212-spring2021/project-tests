@@ -1,0 +1,5794 @@
+{
+	"a": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 123,
+			"score": 0.21503497
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 8105,
+			"score": 0.17967988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 9419,
+			"score": 0.15281654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 99,
+			"score": 0.14887218
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 163,
+			"score": 0.14540589
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 28,
+			"score": 0.13658537
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 100,
+			"score": 0.12987013
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 30,
+			"score": 0.12765957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 36,
+			"score": 0.12720848
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 107,
+			"score": 0.12558685
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 35,
+			"score": 0.12152778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 65,
+			"score": 0.12014787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 184,
+			"score": 0.11994785
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 44,
+			"score": 0.11956522
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 112,
+			"score": 0.11902232
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 74,
+			"score": 0.11878010
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 42,
+			"score": 0.11864407
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 503,
+			"score": 0.11744105
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 50,
+			"score": 0.11627907
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 31,
+			"score": 0.11567164
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 35,
+			"score": 0.11513158
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 31,
+			"score": 0.11481481
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 95,
+			"score": 0.11459590
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 30,
+			"score": 0.11320755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 24,
+			"score": 0.11214953
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 87,
+			"score": 0.11012658
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 31,
+			"score": 0.10915493
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 843,
+			"score": 0.10782809
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 84,
+			"score": 0.10357583
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 102,
+			"score": 0.10220441
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 678,
+			"score": 0.10035524
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 49,
+			"score": 0.09919028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 150,
+			"score": 0.09715026
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 258,
+			"score": 0.09375000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 53,
+			"score": 0.09217391
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 31,
+			"score": 0.09198813
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 870,
+			"score": 0.09009009
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 611,
+			"score": 0.08829480
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 529,
+			"score": 0.08639556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 72,
+			"score": 0.08530806
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 176,
+			"score": 0.08523002
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 291,
+			"score": 0.08386167
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 54,
+			"score": 0.07366985
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 160,
+			"score": 0.07269423
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 209,
+			"score": 0.07123381
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 68,
+			"score": 0.06806807
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 47,
+			"score": 0.06619718
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 46,
+			"score": 0.06506365
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 103,
+			"score": 0.05912744
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 212,
+			"score": 0.02386581
+		}
+	],
+	"b": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 87,
+			"score": 0.08708709
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 412,
+			"score": 0.06098283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 46,
+			"score": 0.05672010
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 18,
+			"score": 0.05341246
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 502,
+			"score": 0.05198302
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 56,
+			"score": 0.04995540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 305,
+			"score": 0.04407514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 30,
+			"score": 0.04092769
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 319,
+			"score": 0.04080327
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 67,
+			"score": 0.03846154
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 80,
+			"score": 0.03634711
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 20,
+			"score": 0.03478261
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 118,
+			"score": 0.03400576
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 1996,
+			"score": 0.03238367
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 20,
+			"score": 0.03210273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 32,
+			"score": 0.03206413
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 25,
+			"score": 0.03164557
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 135,
+			"score": 0.03151996
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 85,
+			"score": 0.03088663
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 20,
+			"score": 0.03007519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 23,
+			"score": 0.02774427
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 19,
+			"score": 0.02687412
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 52,
+			"score": 0.02518160
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 17,
+			"score": 0.02394366
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 146,
+			"score": 0.02384452
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 11,
+			"score": 0.02226721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 65,
+			"score": 0.02215406
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 8,
+			"score": 0.02173913
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 972,
+			"score": 0.02154828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 33,
+			"score": 0.02151239
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 32,
+			"score": 0.02072539
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 17,
+			"score": 0.01806589
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 11,
+			"score": 0.01428571
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 12,
+			"score": 0.01421801
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 6,
+			"score": 0.01395349
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 7,
+			"score": 0.01223776
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 4,
+			"score": 0.01129944
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 7,
+			"score": 0.00821596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 2,
+			"score": 0.00754717
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 2,
+			"score": 0.00746269
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 2,
+			"score": 0.00740741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 2,
+			"score": 0.00706714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 2,
+			"score": 0.00704225
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 2,
+			"score": 0.00694444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 2,
+			"score": 0.00657895
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 3,
+			"score": 0.00554529
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 1,
+			"score": 0.00487805
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 1,
+			"score": 0.00467290
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 1,
+			"score": 0.00425532
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 1,
+			"score": 0.00011257
+		}
+	],
+	"c": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 348,
+			"score": 0.12645349
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 33,
+			"score": 0.11660777
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 91,
+			"score": 0.11220715
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 23,
+			"score": 0.10747664
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 25,
+			"score": 0.10638298
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 61,
+			"score": 0.10608696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 28,
+			"score": 0.10566038
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 28,
+			"score": 0.10447761
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 4686,
+			"score": 0.10388401
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 28,
+			"score": 0.10370370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 62,
+			"score": 0.09951846
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 49,
+			"score": 0.09919028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 28,
+			"score": 0.09859155
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 141,
+			"score": 0.09191656
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 89,
+			"score": 0.08908909
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 25,
+			"score": 0.08680556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 64,
+			"score": 0.08311688
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 25,
+			"score": 0.08223684
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 29,
+			"score": 0.08192090
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 68,
+			"score": 0.08056872
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 124,
+			"score": 0.08031088
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 79,
+			"score": 0.07915832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 33,
+			"score": 0.07674419
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 28,
+			"score": 0.07608696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 25,
+			"score": 0.07418398
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 4563,
+			"score": 0.07403141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 51,
+			"score": 0.07213579
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 50,
+			"score": 0.07042254
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 14,
+			"score": 0.06829268
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 50,
+			"score": 0.06329114
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 185,
+			"score": 0.06305385
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 67,
+			"score": 0.05976806
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 123,
+			"score": 0.05956416
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 358,
+			"score": 0.05846807
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 401,
+			"score": 0.05794798
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 31,
+			"score": 0.05730129
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 380,
+			"score": 0.05624630
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 52,
+			"score": 0.05526036
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 36,
+			"score": 0.05413534
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 476,
+			"score": 0.05358550
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 38,
+			"score": 0.05184175
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 222,
+			"score": 0.05183283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 395,
+			"score": 0.05052443
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 463,
+			"score": 0.04794450
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 39,
+			"score": 0.04704463
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 155,
+			"score": 0.04466859
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 23,
+			"score": 0.04020979
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 66,
+			"score": 0.03788749
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 73,
+			"score": 0.03316674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 26,
+			"score": 0.03051643
+		}
+	],
+	"d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 82,
+			"score": 0.09624413
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 19,
+			"score": 0.09268293
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 19,
+			"score": 0.08085106
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 24,
+			"score": 0.07894737
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 22,
+			"score": 0.07773852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 26,
+			"score": 0.07715134
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 22,
+			"score": 0.07638889
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 16,
+			"score": 0.07476636
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 21,
+			"score": 0.07394366
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 109,
+			"score": 0.07105606
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 19,
+			"score": 0.07089552
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 19,
+			"score": 0.07037037
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 54,
+			"score": 0.07012987
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 18,
+			"score": 0.06792453
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 24,
+			"score": 0.06779661
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 22,
+			"score": 0.05978261
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 28,
+			"score": 0.05668016
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 240,
+			"score": 0.05603549
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 24,
+			"score": 0.05581395
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 37,
+			"score": 0.05047749
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 30,
+			"score": 0.04511278
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 38,
+			"score": 0.04038257
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2429,
+			"score": 0.03940879
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 32,
+			"score": 0.03860072
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 23,
+			"score": 0.03691814
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 36,
+			"score": 0.03607214
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 29,
+			"score": 0.03436019
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 34,
+			"score": 0.03403403
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 261,
+			"score": 0.03338450
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 36,
+			"score": 0.03211418
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 70,
+			"score": 0.03180373
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 49,
+			"score": 0.03173575
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 17,
+			"score": 0.03142329
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 210,
+			"score": 0.03108348
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 21,
+			"score": 0.02957746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 16,
+			"score": 0.02797203
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 22,
+			"score": 0.02784810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 19,
+			"score": 0.02687412
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 15,
+			"score": 0.02608696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 249,
+			"score": 0.02578441
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 19,
+			"score": 0.02342787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 45,
+			"score": 0.02179177
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 146,
+			"score": 0.02109827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 32,
+			"score": 0.01836969
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 787,
+			"score": 0.01744702
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 47,
+			"score": 0.01707849
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 45,
+			"score": 0.01533742
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 51,
+			"score": 0.01469741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 82,
+			"score": 0.01339213
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 10,
+			"score": 0.00112575
+		}
+	],
+	"e": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 753,
+			"score": 0.12297893
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 80,
+			"score": 0.11315417
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 79,
+			"score": 0.11126761
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 58,
+			"score": 0.06996381
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 34,
+			"score": 0.06882591
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 63,
+			"score": 0.06312625
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 123,
+			"score": 0.05956416
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 162,
+			"score": 0.05886628
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 199,
+			"score": 0.05734870
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 45,
+			"score": 0.04782147
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 75,
+			"score": 0.04305396
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 34,
+			"score": 0.04028436
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 31,
+			"score": 0.04025974
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 23,
+			"score": 0.03691814
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 157,
+			"score": 0.03665655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 77,
+			"score": 0.03498410
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2063,
+			"score": 0.03347070
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 27,
+			"score": 0.03329223
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 26,
+			"score": 0.03291139
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 17,
+			"score": 0.02972028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 1300,
+			"score": 0.02881972
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 10,
+			"score": 0.02824859
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 82,
+			"score": 0.02794819
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 10,
+			"score": 0.02717391
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 9,
+			"score": 0.02670623
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 7,
+			"score": 0.02473498
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 5,
+			"score": 0.02439024
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 187,
+			"score": 0.02391916
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 5,
+			"score": 0.02336449
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 10,
+			"score": 0.02325581
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 201,
+			"score": 0.02262749
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 34,
+			"score": 0.02216428
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 5,
+			"score": 0.02127660
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 6,
+			"score": 0.02112676
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 6,
+			"score": 0.01973684
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 14,
+			"score": 0.01909959
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 131,
+			"score": 0.01893064
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 21,
+			"score": 0.01873327
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 152,
+			"score": 0.01573988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 13,
+			"score": 0.01525822
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 4,
+			"score": 0.01509434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 4,
+			"score": 0.01492537
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 4,
+			"score": 0.01481481
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 94,
+			"score": 0.01391356
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 4,
+			"score": 0.01388889
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 21,
+			"score": 0.01360104
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 8,
+			"score": 0.01203008
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 12,
+			"score": 0.01201201
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 6,
+			"score": 0.01043478
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 5,
+			"score": 0.00924214
+		}
+	],
+	"f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 56,
+			"score": 0.06635071
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 32,
+			"score": 0.05136437
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 22,
+			"score": 0.05116279
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 40,
+			"score": 0.04694836
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 11,
+			"score": 0.04680851
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 36,
+			"score": 0.04675325
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2857,
+			"score": 0.04635278
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 14,
+			"score": 0.04605263
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 13,
+			"score": 0.04577465
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 12,
+			"score": 0.04528302
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 13,
+			"score": 0.04513889
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 12,
+			"score": 0.04477612
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 92,
+			"score": 0.04455206
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 12,
+			"score": 0.04444444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 413,
+			"score": 0.04276690
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 9,
+			"score": 0.04205607
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 15,
+			"score": 0.04076087
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 37,
+			"score": 0.03931987
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 255,
+			"score": 0.03774423
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 13,
+			"score": 0.03672316
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 157,
+			"score": 0.03665655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 41,
+			"score": 0.03657449
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 56,
+			"score": 0.03650587
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 28,
+			"score": 0.03544304
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 61,
+			"score": 0.03501722
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 54,
+			"score": 0.03497409
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 18,
+			"score": 0.03327172
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 9,
+			"score": 0.03180212
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 26,
+			"score": 0.03136309
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 1409,
+			"score": 0.03123614
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 108,
+			"score": 0.03112392
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 22,
+			"score": 0.03111740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 20,
+			"score": 0.03007519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 30,
+			"score": 0.03003003
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 88,
+			"score": 0.02999318
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 66,
+			"score": 0.02998637
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 17,
+			"score": 0.02972028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 6,
+			"score": 0.02926829
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 221,
+			"score": 0.02826810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 20,
+			"score": 0.02816901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 169,
+			"score": 0.02760085
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 9,
+			"score": 0.02670623
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 19,
+			"score": 0.02592087
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 21,
+			"score": 0.02589396
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 22,
+			"score": 0.02204409
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 145,
+			"score": 0.02095376
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 10,
+			"score": 0.02024291
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 10,
+			"score": 0.01739130
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 45,
+			"score": 0.01635174
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 3,
+			"score": 0.00033772
+		}
+	],
+	"g": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 130,
+			"score": 0.08419689
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 50,
+			"score": 0.06821282
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 24,
+			"score": 0.04858300
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 34,
+			"score": 0.03403403
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 222,
+			"score": 0.03285968
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 6,
+			"score": 0.02803738
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 118,
+			"score": 0.02755078
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 59,
+			"score": 0.02680600
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 19,
+			"score": 0.02405063
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 6,
+			"score": 0.02120141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 4,
+			"score": 0.01702128
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 9,
+			"score": 0.01565217
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 11,
+			"score": 0.01555870
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 11,
+			"score": 0.01549296
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 16,
+			"score": 0.01427297
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 11,
+			"score": 0.01303318
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 88,
+			"score": 0.01271676
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 4,
+			"score": 0.01186944
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 9,
+			"score": 0.01168831
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 108,
+			"score": 0.01118360
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 4,
+			"score": 0.01086957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 22,
+			"score": 0.01065375
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 10,
+			"score": 0.01062699
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 6,
+			"score": 0.01048951
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 445,
+			"score": 0.00986521
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 6,
+			"score": 0.00963082
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 70,
+			"score": 0.00895370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 450,
+			"score": 0.00730093
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 6,
+			"score": 0.00704225
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 17,
+			"score": 0.00489914
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 8,
+			"score": 0.00459242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 7,
+			"score": 0.00456323
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 1,
+			"score": 0.00377358
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 1,
+			"score": 0.00373134
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 1,
+			"score": 0.00370370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 1,
+			"score": 0.00352113
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 1,
+			"score": 0.00347222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 10,
+			"score": 0.00340832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 1,
+			"score": 0.00328947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 1,
+			"score": 0.00282486
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 17,
+			"score": 0.00277642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 1,
+			"score": 0.00232558
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 1,
+			"score": 0.00184843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 1,
+			"score": 0.00150376
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 4,
+			"score": 0.00145349
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 1,
+			"score": 0.00123305
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 1,
+			"score": 0.00120627
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 1,
+			"score": 0.00100200
+		}
+	],
+	"h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 37,
+			"score": 0.06839187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 21,
+			"score": 0.02727273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 27,
+			"score": 0.02702703
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 5,
+			"score": 0.02439024
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 42,
+			"score": 0.02033898
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 40,
+			"score": 0.01817356
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 4,
+			"score": 0.01702128
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 12,
+			"score": 0.01697313
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 12,
+			"score": 0.01690141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 103,
+			"score": 0.01524571
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 9,
+			"score": 0.01444623
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 16,
+			"score": 0.01427297
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 4,
+			"score": 0.01413428
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 3,
+			"score": 0.01401869
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 95,
+			"score": 0.01372832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 21,
+			"score": 0.01368970
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 5,
+			"score": 0.01358696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 20,
+			"score": 0.01295337
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 12,
+			"score": 0.01202405
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 4,
+			"score": 0.01186944
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 701,
+			"score": 0.01137322
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 3,
+			"score": 0.01132075
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 3,
+			"score": 0.01119403
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 3,
+			"score": 0.01111111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 85,
+			"score": 0.01087235
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 3,
+			"score": 0.01056338
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 3,
+			"score": 0.01041667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 3,
+			"score": 0.00986842
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 95,
+			"score": 0.00983742
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 7,
+			"score": 0.00954980
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 40,
+			"score": 0.00933925
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 7,
+			"score": 0.00886076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 5,
+			"score": 0.00869565
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 7,
+			"score": 0.00863132
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 3,
+			"score": 0.00847458
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 5,
+			"score": 0.00751880
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 6,
+			"score": 0.00723764
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 6,
+			"score": 0.00704225
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 3,
+			"score": 0.00697674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 22,
+			"score": 0.00634006
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 3,
+			"score": 0.00607287
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 257,
+			"score": 0.00569744
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 5,
+			"score": 0.00531350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 15,
+			"score": 0.00511247
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 4,
+			"score": 0.00473934
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 28,
+			"score": 0.00457292
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 10,
+			"score": 0.00363372
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 2,
+			"score": 0.00349650
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 5,
+			"score": 0.00287026
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 8,
+			"score": 0.00090060
+		}
+	],
+	"i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 129,
+			"score": 0.15906289
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 547,
+			"score": 0.15763689
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 395,
+			"score": 0.14353198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 1267,
+			"score": 0.14263199
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 916,
+			"score": 0.13236994
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 131,
+			"score": 0.13126253
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 96,
+			"score": 0.13096862
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 195,
+			"score": 0.12711864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 365,
+			"score": 0.12440354
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 1143,
+			"score": 0.11835974
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 5250,
+			"score": 0.11638734
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 706,
+			"score": 0.11530296
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 893,
+			"score": 0.11422359
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 114,
+			"score": 0.11411411
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 63,
+			"score": 0.10956522
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 236,
+			"score": 0.10722399
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 84,
+			"score": 0.10632911
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 663,
+			"score": 0.09813499
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 53,
+			"score": 0.09796673
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 146,
+			"score": 0.09455959
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 46,
+			"score": 0.09311741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 84,
+			"score": 0.08926674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 5281,
+			"score": 0.08568045
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 56,
+			"score": 0.08421053
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 93,
+			"score": 0.08296164
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 171,
+			"score": 0.08280872
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 16,
+			"score": 0.07804878
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 60,
+			"score": 0.07792208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 64,
+			"score": 0.07720145
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 131,
+			"score": 0.07520092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 17,
+			"score": 0.07234043
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 44,
+			"score": 0.07062600
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 15,
+			"score": 0.07009346
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 299,
+			"score": 0.06981088
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 55,
+			"score": 0.06516588
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 21,
+			"score": 0.06231454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 42,
+			"score": 0.05915493
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 50,
+			"score": 0.05868545
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 41,
+			"score": 0.05799151
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 16,
+			"score": 0.05653710
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 23,
+			"score": 0.05348837
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 15,
+			"score": 0.05208333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 18,
+			"score": 0.05084746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 29,
+			"score": 0.05069930
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 15,
+			"score": 0.04934211
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 13,
+			"score": 0.04905660
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 18,
+			"score": 0.04891304
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 13,
+			"score": 0.04850746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 13,
+			"score": 0.04814815
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 13,
+			"score": 0.04577465
+		}
+	],
+	"j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 6395,
+			"score": 0.71991444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 149,
+			"score": 0.17488263
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 996,
+			"score": 0.10313762
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 17,
+			"score": 0.06415094
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 15,
+			"score": 0.06382979
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 16,
+			"score": 0.05925926
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 16,
+			"score": 0.05653710
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 2543,
+			"score": 0.05637581
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 12,
+			"score": 0.05607477
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 15,
+			"score": 0.05597015
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 23,
+			"score": 0.05348837
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 15,
+			"score": 0.05281690
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 14,
+			"score": 0.04861111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 14,
+			"score": 0.04605263
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 16,
+			"score": 0.04519774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 8,
+			"score": 0.03902439
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 11,
+			"score": 0.03264095
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 55,
+			"score": 0.03157290
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 15,
+			"score": 0.03036437
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 11,
+			"score": 0.02989130
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 39,
+			"score": 0.02525907
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 14,
+			"score": 0.02247191
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 15,
+			"score": 0.02046385
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 13,
+			"score": 0.01954887
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 16,
+			"score": 0.01930036
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 10,
+			"score": 0.01748252
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 17,
+			"score": 0.01703407
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 16,
+			"score": 0.01700319
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 13,
+			"score": 0.01688312
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 9,
+			"score": 0.01663586
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 18,
+			"score": 0.01605709
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 11,
+			"score": 0.01555870
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 11,
+			"score": 0.01549296
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 13,
+			"score": 0.01540284
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 12,
+			"score": 0.01518987
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 12,
+			"score": 0.01479655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 8,
+			"score": 0.01391304
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 13,
+			"score": 0.01301301
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 750,
+			"score": 0.01216821
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 59,
+			"score": 0.00873298
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 13,
+			"score": 0.00847458
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 13,
+			"score": 0.00590641
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 14,
+			"score": 0.00508721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 17,
+			"score": 0.00489914
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 14,
+			"score": 0.00477164
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 19,
+			"score": 0.00443614
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 9,
+			"score": 0.00435835
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 25,
+			"score": 0.00319775
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 13,
+			"score": 0.00212314
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 14,
+			"score": 0.00202312
+		}
+	],
+	"k": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 106,
+			"score": 0.03612815
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 170,
+			"score": 0.02456647
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 16,
+			"score": 0.02253521
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 170,
+			"score": 0.02174469
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 15,
+			"score": 0.02121641
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 22,
+			"score": 0.01962533
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 21,
+			"score": 0.01205511
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 4,
+			"score": 0.00601504
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 348,
+			"score": 0.00564605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 35,
+			"score": 0.00518058
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 4,
+			"score": 0.00482509
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 3,
+			"score": 0.00409277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 1,
+			"score": 0.00373134
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 1,
+			"score": 0.00370370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 1,
+			"score": 0.00352113
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 15,
+			"score": 0.00350222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 1,
+			"score": 0.00347222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 1,
+			"score": 0.00328947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 5,
+			"score": 0.00323834
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 1,
+			"score": 0.00296736
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 1,
+			"score": 0.00282486
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 1,
+			"score": 0.00271739
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 2,
+			"score": 0.00259740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 2,
+			"score": 0.00234742
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 84,
+			"score": 0.00186220
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 1,
+			"score": 0.00174825
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 1,
+			"score": 0.00173913
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 1,
+			"score": 0.00160514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 1,
+			"score": 0.00123305
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 1,
+			"score": 0.00118483
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 1,
+			"score": 0.00106270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 1,
+			"score": 0.00100200
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 1,
+			"score": 0.00100100
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 2,
+			"score": 0.00096852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 9,
+			"score": 0.00093197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 5,
+			"score": 0.00081659
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 2,
+			"score": 0.00072674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 1,
+			"score": 0.00065189
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 1,
+			"score": 0.00045434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 1,
+			"score": 0.00028818
+		}
+	],
+	"l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 64,
+			"score": 0.06801275
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 405,
+			"score": 0.06614405
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 223,
+			"score": 0.06426513
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 37,
+			"score": 0.05939005
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 73,
+			"score": 0.04190586
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 149,
+			"score": 0.03478870
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 16,
+			"score": 0.02782609
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 11,
+			"score": 0.02226721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 24,
+			"score": 0.02140946
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 4,
+			"score": 0.01869159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 8,
+			"score": 0.01860465
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 124,
+			"score": 0.01835406
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 14,
+			"score": 0.01818182
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 1084,
+			"score": 0.01758712
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 5,
+			"score": 0.01736111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 764,
+			"score": 0.01693713
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 26,
+			"score": 0.01683938
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 5,
+			"score": 0.01644737
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 6,
+			"score": 0.01630435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 13,
+			"score": 0.01568154
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 10,
+			"score": 0.01503759
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 3,
+			"score": 0.01463415
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 138,
+			"score": 0.01429015
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 4,
+			"score": 0.01413428
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 12,
+			"score": 0.01408451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 29,
+			"score": 0.01404358
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 3,
+			"score": 0.01276596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 4,
+			"score": 0.01186944
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 80,
+			"score": 0.01156069
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 3,
+			"score": 0.01132075
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 3,
+			"score": 0.01119403
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 3,
+			"score": 0.01111111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 24,
+			"score": 0.01090413
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 3,
+			"score": 0.01056338
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 16,
+			"score": 0.01043025
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 7,
+			"score": 0.00954980
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 9,
+			"score": 0.00900901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 7,
+			"score": 0.00886076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 3,
+			"score": 0.00847458
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 66,
+			"score": 0.00844206
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 4,
+			"score": 0.00699301
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 19,
+			"score": 0.00690407
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 6,
+			"score": 0.00601202
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 3,
+			"score": 0.00554529
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 4,
+			"score": 0.00493218
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 4,
+			"score": 0.00473934
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 3,
+			"score": 0.00424328
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 3,
+			"score": 0.00422535
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 10,
+			"score": 0.00340832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 3,
+			"score": 0.00033772
+		}
+	],
+	"m": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 306,
+			"score": 0.10429448
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 15,
+			"score": 0.07317073
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 25,
+			"score": 0.07062147
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 49,
+			"score": 0.06930693
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 25,
+			"score": 0.06793478
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 48,
+			"score": 0.06760563
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 52,
+			"score": 0.06411837
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 18,
+			"score": 0.06360424
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 26,
+			"score": 0.06046512
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 44,
+			"score": 0.06002729
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 56,
+			"score": 0.05951116
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 15,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 15,
+			"score": 0.05597015
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 15,
+			"score": 0.05555556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 2390,
+			"score": 0.05298395
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 15,
+			"score": 0.05281690
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 15,
+			"score": 0.05208333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 79,
+			"score": 0.05149935
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 11,
+			"score": 0.05140187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 17,
+			"score": 0.05044510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 15,
+			"score": 0.04934211
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 40,
+			"score": 0.04825090
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 32,
+			"score": 0.04812030
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 27,
+			"score": 0.04720280
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 11,
+			"score": 0.04680851
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 25,
+			"score": 0.04347826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 34,
+			"score": 0.04303797
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 21,
+			"score": 0.04251012
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 42,
+			"score": 0.04204204
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 385,
+			"score": 0.03986745
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 21,
+			"score": 0.03881701
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 54,
+			"score": 0.03497409
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2132,
+			"score": 0.03459017
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 29,
+			"score": 0.03403756
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 33,
+			"score": 0.03306613
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 25,
+			"score": 0.03246753
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 224,
+			"score": 0.03236994
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 20,
+			"score": 0.03210273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 86,
+			"score": 0.03125000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 26,
+			"score": 0.03080569
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 62,
+			"score": 0.03002421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 100,
+			"score": 0.02881844
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 122,
+			"score": 0.02848471
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 191,
+			"score": 0.02827117
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 48,
+			"score": 0.02755454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 204,
+			"score": 0.02609363
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 25,
+			"score": 0.02230152
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 106,
+			"score": 0.01731178
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 36,
+			"score": 0.01635620
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 3,
+			"score": 0.00033772
+		}
+	],
+	"n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 37,
+			"score": 0.06839187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 470,
+			"score": 0.06791908
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 522,
+			"score": 0.06676899
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 115,
+			"score": 0.05224898
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 17,
+			"score": 0.05044510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 81,
+			"score": 0.04649828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 16,
+			"score": 0.04347826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 48,
+			"score": 0.04281891
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 13,
+			"score": 0.04276316
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 24,
+			"score": 0.04195804
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 11,
+			"score": 0.03873239
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 8,
+			"score": 0.03738318
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 23,
+			"score": 0.03458647
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 101,
+			"score": 0.03442399
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 27,
+			"score": 0.03256936
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 88,
+			"score": 0.03197674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 9,
+			"score": 0.03180212
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 18,
+			"score": 0.03130435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 9,
+			"score": 0.03125000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 11,
+			"score": 0.03107345
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 26,
+			"score": 0.03080569
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 187,
+			"score": 0.03054058
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 7,
+			"score": 0.02978723
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 28,
+			"score": 0.02975558
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 61,
+			"score": 0.02953995
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 29,
+			"score": 0.02905812
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 121,
+			"score": 0.02825123
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 17,
+			"score": 0.02728732
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 7,
+			"score": 0.02641509
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 7,
+			"score": 0.02611940
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 252,
+			"score": 0.02609506
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 7,
+			"score": 0.02592593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 11,
+			"score": 0.02558140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 5,
+			"score": 0.02439024
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 73,
+			"score": 0.02103746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 16,
+			"score": 0.01972873
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 14,
+			"score": 0.01909959
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 19,
+			"score": 0.01901902
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 15,
+			"score": 0.01898734
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 28,
+			"score": 0.01813472
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 794,
+			"score": 0.01760220
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 1065,
+			"score": 0.01727886
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 110,
+			"score": 0.01628182
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 24,
+			"score": 0.01564537
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 12,
+			"score": 0.01558442
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 7,
+			"score": 0.01417004
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 12,
+			"score": 0.01408451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 9,
+			"score": 0.01267606
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 7,
+			"score": 0.00990099
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 5,
+			"score": 0.00056287
+		}
+	],
+	"o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 47,
+			"score": 0.08216783
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 62,
+			"score": 0.08051948
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 275,
+			"score": 0.07925072
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 71,
+			"score": 0.07545165
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 206,
+			"score": 0.07485465
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 456,
+			"score": 0.07447330
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 54,
+			"score": 0.07366985
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 27,
+			"score": 0.07336957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 40,
+			"score": 0.06956522
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 56,
+			"score": 0.06905055
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 199,
+			"score": 0.06782549
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 4095,
+			"score": 0.06643845
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 71,
+			"score": 0.06333631
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 611,
+			"score": 0.06327017
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 20,
+			"score": 0.05934718
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 244,
+			"score": 0.05696941
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 40,
+			"score": 0.05633803
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 56,
+			"score": 0.05611222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 12,
+			"score": 0.05607477
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 13,
+			"score": 0.05531915
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 38,
+			"score": 0.05374823
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 11,
+			"score": 0.05365854
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 82,
+			"score": 0.05345502
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 110,
+			"score": 0.05326877
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 16,
+			"score": 0.05263158
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 15,
+			"score": 0.05208333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 41,
+			"score": 0.05189873
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 28,
+			"score": 0.05175601
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 32,
+			"score": 0.05136437
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 22,
+			"score": 0.05116279
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 14,
+			"score": 0.04946996
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 14,
+			"score": 0.04929577
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 13,
+			"score": 0.04905660
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 13,
+			"score": 0.04850746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 13,
+			"score": 0.04814815
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 105,
+			"score": 0.04770559
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 2145,
+			"score": 0.04755254
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 328,
+			"score": 0.04739884
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 40,
+			"score": 0.04694836
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 46,
+			"score": 0.04604605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 22,
+			"score": 0.04453441
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 15,
+			"score": 0.04237288
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 329,
+			"score": 0.04208237
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 71,
+			"score": 0.04075775
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 33,
+			"score": 0.03909953
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 26,
+			"score": 0.03909774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 31,
+			"score": 0.03739445
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 232,
+			"score": 0.03433985
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 46,
+			"score": 0.02979275
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 256,
+			"score": 0.02881909
+		}
+	],
+	"p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 67,
+			"score": 0.08481013
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 181,
+			"score": 0.08223535
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 68,
+			"score": 0.08202654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 535,
+			"score": 0.07731214
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 52,
+			"score": 0.06753247
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 104,
+			"score": 0.06735751
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 525,
+			"score": 0.06715272
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 28,
+			"score": 0.06511628
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 439,
+			"score": 0.06497928
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 71,
+			"score": 0.06333631
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 42,
+			"score": 0.06315789
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 21,
+			"score": 0.05932203
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 248,
+			"score": 0.05790334
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 11,
+			"score": 0.05140187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 82,
+			"score": 0.04707233
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 29,
+			"score": 0.04654896
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 46,
+			"score": 0.04604605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 13,
+			"score": 0.04577465
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 37,
+			"score": 0.04383886
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2680,
+			"score": 0.04348108
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 37,
+			"score": 0.04342723
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 13,
+			"score": 0.04276316
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 12,
+			"score": 0.04240283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 42,
+			"score": 0.04208417
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 11,
+			"score": 0.04150943
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 11,
+			"score": 0.04104478
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 30,
+			"score": 0.04092769
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 15,
+			"score": 0.04076087
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 11,
+			"score": 0.04074074
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 22,
+			"score": 0.04066543
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 13,
+			"score": 0.03857567
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 11,
+			"score": 0.03819444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 123,
+			"score": 0.03544669
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 73,
+			"score": 0.03535109
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 20,
+			"score": 0.03496503
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 7,
+			"score": 0.03414634
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 8,
+			"score": 0.03404255
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 32,
+			"score": 0.03400638
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 317,
+			"score": 0.03282593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 18,
+			"score": 0.03130435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 86,
+			"score": 0.02931152
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 14,
+			"score": 0.02834008
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 20,
+			"score": 0.02828854
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 172,
+			"score": 0.02809081
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 19,
+			"score": 0.02676056
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 66,
+			"score": 0.02398256
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 36,
+			"score": 0.02346806
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 19,
+			"score": 0.02342787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 883,
+			"score": 0.01957524
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 6,
+			"score": 0.00067545
+		}
+	],
+	"q": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 41,
+			"score": 0.04108216
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 8,
+			"score": 0.00363471
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 6,
+			"score": 0.00344432
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 1,
+			"score": 0.00296736
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 1,
+			"score": 0.00150376
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 1,
+			"score": 0.00120627
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 71,
+			"score": 0.00115192
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 1,
+			"score": 0.00106270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 33,
+			"score": 0.00073158
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 4,
+			"score": 0.00041421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 3,
+			"score": 0.00038373
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 1,
+			"score": 0.00028818
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 1,
+			"score": 0.00023348
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 1,
+			"score": 0.00016332
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 1,
+			"score": 0.00014802
+		}
+	],
+	"r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 90,
+			"score": 0.10663507
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 206,
+			"score": 0.09359382
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 156,
+			"score": 0.08955224
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 30,
+			"score": 0.08902077
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 42,
+			"score": 0.07342657
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 33,
+			"score": 0.06680162
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 36,
+			"score": 0.06654344
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 27,
+			"score": 0.06279070
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 604,
+			"score": 0.06254530
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 167,
+			"score": 0.06068314
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 123,
+			"score": 0.05956416
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 41,
+			"score": 0.05774648
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 47,
+			"score": 0.05669481
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 40,
+			"score": 0.05657709
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 55,
+			"score": 0.05511022
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 235,
+			"score": 0.05486808
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 54,
+			"score": 0.05405405
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 83,
+			"score": 0.05375648
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 33,
+			"score": 0.05296950
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 16,
+			"score": 0.05263158
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 177,
+			"score": 0.05100865
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 18,
+			"score": 0.05084746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 396,
+			"score": 0.05065234
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 148,
+			"score": 0.05044308
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 14,
+			"score": 0.04861111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 306,
+			"score": 0.04421965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 298,
+			"score": 0.04410894
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 9,
+			"score": 0.04390244
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 25,
+			"score": 0.04347826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 12,
+			"score": 0.04225352
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 28,
+			"score": 0.04210526
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 39,
+			"score": 0.04144527
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 253,
+			"score": 0.04131961
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 11,
+			"score": 0.04074074
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 2450,
+			"score": 0.03974950
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 29,
+			"score": 0.03956344
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 10,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 10,
+			"score": 0.03731343
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 28,
+			"score": 0.03544304
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 39,
+			"score": 0.03479037
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 53,
+			"score": 0.03455020
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 8,
+			"score": 0.03404255
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 7,
+			"score": 0.03271028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 1363,
+			"score": 0.03021637
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 11,
+			"score": 0.02989130
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 8,
+			"score": 0.02826855
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 20,
+			"score": 0.02347418
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 19,
+			"score": 0.02342787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 14,
+			"score": 0.01818182
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 7,
+			"score": 0.00078802
+		}
+	],
+	"s": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 229,
+			"score": 0.13145809
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 86,
+			"score": 0.10886076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 38,
+			"score": 0.10326087
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 694,
+			"score": 0.10272351
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 58,
+			"score": 0.10086957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 21,
+			"score": 0.09813084
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 23,
+			"score": 0.09787234
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 54,
+			"score": 0.09440559
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 19,
+			"score": 0.09268293
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 26,
+			"score": 0.09187279
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 64,
+			"score": 0.09014085
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 139,
+			"score": 0.09002591
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 62,
+			"score": 0.08769448
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 47,
+			"score": 0.08687616
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 23,
+			"score": 0.08582090
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 23,
+			"score": 0.08518519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 95,
+			"score": 0.08474576
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 61,
+			"score": 0.08321965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 22,
+			"score": 0.08301887
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 23,
+			"score": 0.08098592
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 50,
+			"score": 0.08025682
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 22,
+			"score": 0.07638889
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 56,
+			"score": 0.07272727
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 445,
+			"score": 0.07267679
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 22,
+			"score": 0.07236842
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 25,
+			"score": 0.07062147
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 59,
+			"score": 0.06990521
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 242,
+			"score": 0.06974063
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 204,
+			"score": 0.06952965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 292,
+			"score": 0.06817651
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 4169,
+			"score": 0.06763904
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 63,
+			"score": 0.06695005
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 57,
+			"score": 0.06690141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 136,
+			"score": 0.06585956
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 22,
+			"score": 0.06528190
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 500,
+			"score": 0.06395498
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 30,
+			"score": 0.06072874
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 158,
+			"score": 0.05741279
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 57,
+			"score": 0.05711423
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 57,
+			"score": 0.05705706
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 24,
+			"score": 0.05581395
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 531,
+			"score": 0.05498602
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 84,
+			"score": 0.05475880
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 2405,
+			"score": 0.05331648
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 112,
+			"score": 0.05088596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 347,
+			"score": 0.05014451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 31,
+			"score": 0.04661654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 34,
+			"score": 0.04192355
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 34,
+			"score": 0.04101327
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 10,
+			"score": 0.00112575
+		}
+	],
+	"t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 485,
+			"score": 0.23486683
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 519,
+			"score": 0.18859012
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 155,
+			"score": 0.18364929
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 404,
+			"score": 0.18355293
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 275,
+			"score": 0.17926988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 1090,
+			"score": 0.17801731
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 613,
+			"score": 0.17665706
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 517,
+			"score": 0.17620995
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 1186,
+			"score": 0.17138728
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 1135,
+			"score": 0.16799882
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 127,
+			"score": 0.15659679
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 110,
+			"score": 0.15558699
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 665,
+			"score": 0.15526500
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 110,
+			"score": 0.15492958
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 1184,
+			"score": 0.15144538
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 87,
+			"score": 0.15130435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 127,
+			"score": 0.14906103
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 147,
+			"score": 0.14729459
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 135,
+			"score": 0.14346440
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 8832,
+			"score": 0.14329288
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 6268,
+			"score": 0.13895540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 107,
+			"score": 0.13544304
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 73,
+			"score": 0.13493530
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 235,
+			"score": 0.13490241
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 98,
+			"score": 0.13369714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 132,
+			"score": 0.13213213
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 74,
+			"score": 0.12937063
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 191,
+			"score": 0.12370466
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 132,
+			"score": 0.11775201
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 90,
+			"score": 0.11688312
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 43,
+			"score": 0.11684783
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 75,
+			"score": 0.11278195
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 91,
+			"score": 0.10977081
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 68,
+			"score": 0.10914928
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 1034,
+			"score": 0.10707259
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 20,
+			"score": 0.09756098
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 41,
+			"score": 0.09534884
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 47,
+			"score": 0.09514170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 26,
+			"score": 0.09154930
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 32,
+			"score": 0.09039548
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 27,
+			"score": 0.08881579
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 29,
+			"score": 0.08605341
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 23,
+			"score": 0.08582090
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 23,
+			"score": 0.08518519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 24,
+			"score": 0.08333333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 22,
+			"score": 0.08301887
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 23,
+			"score": 0.08127208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 16,
+			"score": 0.06808511
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 13,
+			"score": 0.06074766
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 11,
+			"score": 0.00123832
+		}
+	],
+	"u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 21,
+			"score": 0.04251012
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 344,
+			"score": 0.03562183
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 9,
+			"score": 0.02960526
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 6,
+			"score": 0.02553191
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 7,
+			"score": 0.02464789
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 14,
+			"score": 0.02447552
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 9,
+			"score": 0.02445652
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 5,
+			"score": 0.02439024
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 7,
+			"score": 0.02430556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 5,
+			"score": 0.02336449
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 44,
+			"score": 0.02130751
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 1298,
+			"score": 0.02105912
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 9,
+			"score": 0.02093023
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 7,
+			"score": 0.01977401
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 15,
+			"score": 0.01948052
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 82,
+			"score": 0.01914546
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 5,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 5,
+			"score": 0.01865672
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 5,
+			"score": 0.01851852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 28,
+			"score": 0.01813472
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 15,
+			"score": 0.01809409
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 12,
+			"score": 0.01804511
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 6,
+			"score": 0.01780415
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 15,
+			"score": 0.01777251
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 5,
+			"score": 0.01766784
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 10,
+			"score": 0.01739130
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 13,
+			"score": 0.01645570
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 113,
+			"score": 0.01445382
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 86,
+			"score": 0.01404540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 10,
+			"score": 0.01364256
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 11,
+			"score": 0.01356350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 13,
+			"score": 0.01302605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 84,
+			"score": 0.01243339
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 41,
+			"score": 0.01181556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 10,
+			"score": 0.01173709
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 11,
+			"score": 0.01101101
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 7,
+			"score": 0.00985915
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 66,
+			"score": 0.00953757
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 5,
+			"score": 0.00924214
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 16,
+			"score": 0.00918485
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 25,
+			"score": 0.00908430
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 406,
+			"score": 0.00900062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 8,
+			"score": 0.00850159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 6,
+			"score": 0.00848656
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 13,
+			"score": 0.00847458
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 18,
+			"score": 0.00817810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 5,
+			"score": 0.00802568
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 20,
+			"score": 0.00681663
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 6,
+			"score": 0.00535236
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 5,
+			"score": 0.00056287
+		}
+	],
+	"v": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 73,
+			"score": 0.10977444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 76,
+			"score": 0.09167672
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 23,
+			"score": 0.07986111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 21,
+			"score": 0.07924528
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 28,
+			"score": 0.07909605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 21,
+			"score": 0.07835821
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 21,
+			"score": 0.07777778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 20,
+			"score": 0.06578947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 28,
+			"score": 0.06511628
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 18,
+			"score": 0.06338028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 88,
+			"score": 0.05051665
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 32,
+			"score": 0.04526167
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 30,
+			"score": 0.04225352
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 99,
+			"score": 0.03374233
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 201,
+			"score": 0.02975133
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 284,
+			"score": 0.02940872
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 63,
+			"score": 0.02862335
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 200,
+			"score": 0.02558199
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 8,
+			"score": 0.02373887
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 164,
+			"score": 0.02369942
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 35,
+			"score": 0.02266839
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 90,
+			"score": 0.02101331
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 23,
+			"score": 0.02051740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 15,
+			"score": 0.01777251
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 11,
+			"score": 0.01765650
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 777,
+			"score": 0.01722533
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 914,
+			"score": 0.01482900
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 22,
+			"score": 0.01434159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 5,
+			"score": 0.01358696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 10,
+			"score": 0.01265823
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 10,
+			"score": 0.01233046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 6,
+			"score": 0.01214575
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 11,
+			"score": 0.01168969
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 11,
+			"score": 0.01101101
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 6,
+			"score": 0.01048951
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 2,
+			"score": 0.00975610
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 14,
+			"score": 0.00677966
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 23,
+			"score": 0.00662824
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 5,
+			"score": 0.00649351
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 4,
+			"score": 0.00545703
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 5,
+			"score": 0.00501002
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 1,
+			"score": 0.00467290
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 28,
+			"score": 0.00457292
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 2,
+			"score": 0.00347826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 1,
+			"score": 0.00184843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 1,
+			"score": 0.00117371
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 3,
+			"score": 0.00109012
+		}
+	],
+	"w": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.sctp/com/sun/nio/sctp/AbstractNotificationHandler.html",
+			"count": 29,
+			"score": 0.05360444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/lang/AbstractMethodError.html",
+			"count": 13,
+			"score": 0.04593640
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.Content.html",
+			"count": 25,
+			"score": 0.04347826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutEvent.html",
+			"count": 9,
+			"score": 0.03829787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 38,
+			"score": 0.03803804
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 279,
+			"score": 0.03568688
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html",
+			"count": 7,
+			"score": 0.03414634
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 69,
+			"score": 0.03341404
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/jdk.jdi/com/sun/jdi/AbsentInformationException.html",
+			"count": 7,
+			"score": 0.03271028
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 36,
+			"score": 0.03211418
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor14.html",
+			"count": 8,
+			"score": 0.03018868
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor6.html",
+			"count": 20,
+			"score": 0.03007519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor8.html",
+			"count": 8,
+			"score": 0.02985075
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor9.html",
+			"count": 8,
+			"score": 0.02962963
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 25,
+			"score": 0.02962085
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 24,
+			"score": 0.02959309
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor8.html",
+			"count": 8,
+			"score": 0.02816901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/annotation/processing/AbstractProcessor.html",
+			"count": 22,
+			"score": 0.02784810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractAnnotationValueVisitor7.html",
+			"count": 8,
+			"score": 0.02777778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 118,
+			"score": 0.02755078
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 21,
+			"score": 0.02727273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 186,
+			"score": 0.02687861
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor6.html",
+			"count": 22,
+			"score": 0.02653800
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 1625,
+			"score": 0.02636446
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.ElementEdit.html",
+			"count": 13,
+			"score": 0.02631579
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor7.html",
+			"count": 8,
+			"score": 0.02631579
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor14.html",
+			"count": 11,
+			"score": 0.02558140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 17,
+			"score": 0.02319236
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/util/AbstractElementVisitor9.html",
+			"count": 8,
+			"score": 0.02259887
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 34,
+			"score": 0.02202073
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 972,
+			"score": 0.02154828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 7,
+			"score": 0.02077151
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.html",
+			"count": 60,
+			"score": 0.02044990
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 12,
+			"score": 0.01926164
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.html",
+			"count": 7,
+			"score": 0.01902174
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.compiler/javax/lang/model/SourceVersion.html",
+			"count": 33,
+			"score": 0.01894374
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleEntry.html",
+			"count": 13,
+			"score": 0.01838755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractMap.SimpleImmutableEntry.html",
+			"count": 13,
+			"score": 0.01830986
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractQueue.html",
+			"count": 18,
+			"score": 0.01803607
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 116,
+			"score": 0.01716992
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 37,
+			"score": 0.01681054
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 14,
+			"score": 0.01643192
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractCollection.html",
+			"count": 45,
+			"score": 0.01635174
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 25,
+			"score": 0.01629726
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.AttributeContext.html",
+			"count": 9,
+			"score": 0.01573427
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 51,
+			"score": 0.01469741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 137,
+			"score": 0.01418660
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 13,
+			"score": 0.01381509
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 81,
+			"score": 0.01322881
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/overview-tree.html",
+			"count": 4,
+			"score": 0.00045030
+		}
+	],
+	"x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 13,
+			"score": 0.01301301
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 3,
+			"score": 0.00890208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 303,
+			"score": 0.00491596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 4,
+			"score": 0.00469484
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 9,
+			"score": 0.00408905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 20,
+			"score": 0.00255820
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractCellEditor.html",
+			"count": 1,
+			"score": 0.00160514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 1,
+			"score": 0.00106270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 4,
+			"score": 0.00093392
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 1,
+			"score": 0.00089206
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 5,
+			"score": 0.00074008
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 1,
+			"score": 0.00064767
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 5,
+			"score": 0.00051776
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 22,
+			"score": 0.00048772
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 2,
+			"score": 0.00032664
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 2,
+			"score": 0.00028902
+		}
+	],
+	"y": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 29,
+			"score": 0.01890482
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/border/AbstractBorder.html",
+			"count": 12,
+			"score": 0.01201201
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/AbstractExecutorService.html",
+			"count": 4,
+			"score": 0.00473934
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/help-doc.html",
+			"count": 3,
+			"score": 0.00389610
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/colorchooser/AbstractColorChooserPanel.html",
+			"count": 5,
+			"score": 0.00323834
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 7,
+			"score": 0.00318037
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.NodeDimensions.html",
+			"count": 1,
+			"score": 0.00296736
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/image/AbstractMultiResolutionImage.html",
+			"count": 2,
+			"score": 0.00272851
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractListModel.html",
+			"count": 2,
+			"score": 0.00212540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 13,
+			"score": 0.00192422
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/nio/channels/spi/AbstractInterruptibleChannel.html",
+			"count": 1,
+			"score": 0.00123305
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 5,
+			"score": 0.00116741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/concurrent/ExecutorService.html",
+			"count": 2,
+			"score": 0.00096852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 9,
+			"score": 0.00093197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractAction.html",
+			"count": 1,
+			"score": 0.00089206
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 6,
+			"score": 0.00076746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 27,
+			"score": 0.00059856
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/AbstractList.html",
+			"count": 2,
+			"score": 0.00057637
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 27,
+			"score": 0.00043806
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 2,
+			"score": 0.00032664
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 2,
+			"score": 0.00028902
+		}
+	],
+	"z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/time/chrono/AbstractChronology.html",
+			"count": 2,
+			"score": 0.00130378
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index.html",
+			"count": 1,
+			"score": 0.00117371
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html",
+			"count": 34,
+			"score": 0.00055163
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.base/java/util/List.html",
+			"count": 3,
+			"score": 0.00048996
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/text/AbstractDocument.html",
+			"count": 2,
+			"score": 0.00046696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/index-files/index-1.html",
+			"count": 21,
+			"score": 0.00046555
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/tree/AbstractLayoutCache.html",
+			"count": 1,
+			"score": 0.00045434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/javax/swing/AbstractButton.html",
+			"count": 2,
+			"score": 0.00029603
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/AbstractPreferences.html",
+			"count": 2,
+			"score": 0.00028902
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/java.prefs/java/util/prefs/Preferences.html",
+			"count": 2,
+			"score": 0.00025582
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/javadoc/api/deprecated-list.html",
+			"count": 2,
+			"score": 0.00020710
+		}
+	]
+}
