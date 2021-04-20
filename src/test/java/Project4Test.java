@@ -378,6 +378,7 @@ public class Project4Test extends TestUtilities {
 	 */
 	@Nested
 	@TestMethodOrder(OrderAnnotation.class)
+	@Tag("verify")
 	public class D_RuntimeTest {
 		/**
 		 * Tests that the inverted index output remains consistent when repeated.
