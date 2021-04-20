@@ -1,0 +1,42 @@
+{
+	"a": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			3
+		]
+	},
+	"bird": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			7
+		]
+	},
+	"common": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			4
+		]
+	},
+	"home": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			8
+		]
+	},
+	"is": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			2
+		]
+	},
+	"of": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			6
+		]
+	},
+	"type": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			5
+		]
+	},
+	"yellowthroat": {
+		"https://www.cs.usfca.edu/~cs212/birds/yellowthroat.html": [
+			1
+		]
+	}
+}

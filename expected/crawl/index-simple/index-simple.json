@@ -1,0 +1,169 @@
+{
+	"aardvark": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			2
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/capital_extension.HTML": [
+			1
+		]
+	},
+	"alpaca": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			1
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/a/b/c/subdir.html": [
+			1
+		]
+	},
+	"antelop": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			7
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/symbols.html": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		]
+	},
+	"eight": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			8
+		]
+	},
+	"eighteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			18
+		]
+	},
+	"eleph": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			5
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/mixed_case.htm": [
+			1,
+			2,
+			3,
+			4
+		]
+	},
+	"eleven": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			11
+		]
+	},
+	"empti": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			3
+		]
+	},
+	"fifteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			15
+		]
+	},
+	"five": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			5
+		]
+	},
+	"four": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			6
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			4
+		]
+	},
+	"fourteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			14
+		]
+	},
+	"hello": {
+		"https://www.cs.usfca.edu/~cs212/simple/": [
+			4
+		],
+		"https://www.cs.usfca.edu/~cs212/simple/hello.html": [
+			1,
+			3,
+			5,
+			7
+		]
+	},
+	"nine": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			9
+		]
+	},
+	"nineteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			19
+		]
+	},
+	"one": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			1
+		]
+	},
+	"seven": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			7
+		]
+	},
+	"seventeen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			17
+		]
+	},
+	"six": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			6
+		]
+	},
+	"sixteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			16
+		]
+	},
+	"ten": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			10
+		]
+	},
+	"thirteen": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			13
+		]
+	},
+	"three": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			3
+		]
+	},
+	"twelv": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			12
+		]
+	},
+	"twenti": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			20
+		]
+	},
+	"two": {
+		"https://www.cs.usfca.edu/~cs212/simple/position.html": [
+			2
+		]
+	},
+	"world": {
+		"https://www.cs.usfca.edu/~cs212/simple/hello.html": [
+			2,
+			4,
+			6,
+			8
+		]
+	}
+}
