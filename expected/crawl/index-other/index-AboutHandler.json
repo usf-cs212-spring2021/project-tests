@@ -1,0 +1,631 @@
+{
+	"a": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			129,
+			166
+		]
+	},
+	"about": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			47,
+			76,
+			93,
+			102
+		]
+	},
+	"abouthandl": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			31,
+			34
+		]
+	},
+	"affili": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			175,
+			186
+		]
+	},
+	"all": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			55
+		]
+	},
+	"also": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			51
+		]
+	},
+	"an": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			35,
+			133
+		]
+	},
+	"and": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			60,
+			139,
+			160,
+			179,
+			201
+		]
+	},
+	"andor": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			173,
+			184
+		]
+	},
+	"api": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			137
+		]
+	},
+	"app": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			41
+		]
+	},
+	"applic": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			70,
+			87
+		]
+	},
+	"ask": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			43,
+			72,
+			89
+		]
+	},
+	"bug": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			130
+		]
+	},
+	"ca": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			191
+		]
+	},
+	"call": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			67,
+			84
+		]
+	},
+	"class": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			7,
+			110
+		]
+	},
+	"code": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			162
+		]
+	},
+	"conceptu": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			154
+		]
+	},
+	"constr": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			19,
+			23,
+			122,
+			126
+		]
+	},
+	"contain": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			148
+		]
+	},
+	"copyright": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			182
+		]
+	},
+	"countri": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			181
+		]
+	},
+	"definit": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			156
+		]
+	},
+	"deprec": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			10,
+			113
+		]
+	},
+	"descript": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			63,
+			152
+		]
+	},
+	"desktopsetabouthandlerabouthandl": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			52
+		]
+	},
+	"detail": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			21,
+			79,
+			124,
+			150
+		]
+	},
+	"develop": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			140
+		]
+	},
+	"developertarget": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			151
+		]
+	},
+	"dialog": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			48,
+			77,
+			94,
+			103
+		]
+	},
+	"document": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			141,
+			146,
+			203
+		]
+	},
+	"e": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			66,
+			83,
+			96
+		]
+	},
+	"enhanc": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			134
+		]
+	},
+	"exampl": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			163
+		]
+	},
+	"field": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			18,
+			22,
+			121,
+			125
+		]
+	},
+	"for": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			135
+		]
+	},
+	"further": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			136
+		]
+	},
+	"handleabout": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			80
+		]
+	},
+	"handleaboutaboutev": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			65,
+			82
+		]
+	},
+	"help": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			12,
+			115
+		]
+	},
+	"implement": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			36
+		]
+	},
+	"in": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			176
+		]
+	},
+	"index": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			11,
+			114
+		]
+	},
+	"interfac": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			30,
+			33
+		]
+	},
+	"is": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			42,
+			71,
+			88,
+			165,
+			196
+		]
+	},
+	"it": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			46,
+			75,
+			92,
+			174,
+			185
+		]
+	},
+	"java": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			13,
+			116,
+			144,
+			164
+		]
+	},
+	"javaawtdesktop": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			29
+		]
+	},
+	"javadesktop": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			27
+		]
+	},
+	"jdk": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			15,
+			118
+		]
+	},
+	"licens": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			199
+		]
+	},
+	"link": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			3,
+			106
+		]
+	},
+	"method": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			20,
+			24,
+			53,
+			58,
+			62,
+			78,
+			123,
+			127
+		]
+	},
+	"methodsabstract": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			57
+		]
+	},
+	"methodsinst": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			56
+		]
+	},
+	"modifi": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			59
+		]
+	},
+	"modul": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			5,
+			26,
+			108
+		]
+	},
+	"more": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			149
+		]
+	},
+	"navig": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			2,
+			105
+		]
+	},
+	"nest": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			17,
+			120
+		]
+	},
+	"notif": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			38
+		]
+	},
+	"of": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			157,
+			171
+		]
+	},
+	"or": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			131,
+			168
+		]
+	},
+	"oracl": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			172,
+			183,
+			187
+		]
+	},
+	"other": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			180
+		]
+	},
+	"overview": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			4,
+			107,
+			155
+		]
+	},
+	"packag": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			6,
+			28,
+			109
+		]
+	},
+	"paramet": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			95
+		]
+	},
+	"parkway": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			188
+		]
+	},
+	"polici": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			205
+		]
+	},
+	"public": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			32
+		]
+	},
+	"receiv": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			37
+		]
+	},
+	"redistribut": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			204
+		]
+	},
+	"redwood": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			189
+		]
+	},
+	"refer": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			138
+		]
+	},
+	"regist": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			169
+		]
+	},
+	"report": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			128
+		]
+	},
+	"request": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			98
+		]
+	},
+	"reserv": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			194
+		]
+	},
+	"right": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			193
+		]
+	},
+	"se": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			14,
+			117,
+			145
+		]
+	},
+	"search": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			25
+		]
+	},
+	"see": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			50,
+			142
+		]
+	},
+	"shore": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			190
+		]
+	},
+	"show": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			45,
+			74,
+			91,
+			100
+		]
+	},
+	"sinc": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			49
+		]
+	},
+	"skip": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			1,
+			104
+		]
+	},
+	"subject": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			197
+		]
+	},
+	"suggest": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			132
+		]
+	},
+	"summari": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			16,
+			54,
+			119
+		]
+	},
+	"term": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			158,
+			200
+		]
+	},
+	"the": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			40,
+			69,
+			86,
+			97,
+			101,
+			143,
+			177,
+			202
+		]
+	},
+	"to": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			44,
+			73,
+			90,
+			99,
+			198
+		]
+	},
+	"trademark": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			167,
+			170
+		]
+	},
+	"tree": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			9,
+			112
+		]
+	},
+	"type": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			61
+		]
+	},
+	"us": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			178
+		]
+	},
+	"usaal": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			192
+		]
+	},
+	"use": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			8,
+			111,
+			195
+		]
+	},
+	"void": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			64,
+			81
+		]
+	},
+	"when": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			39,
+			68,
+			85
+		]
+	},
+	"which": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			147
+		]
+	},
+	"with": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			153
+		]
+	},
+	"work": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			161
+		]
+	},
+	"workaround": {
+		"https://www.cs.usfca.edu/~cs212/javadoc/api/java.desktop/java/awt/desktop/AboutHandler.html": [
+			159
+		]
+	}
+}
