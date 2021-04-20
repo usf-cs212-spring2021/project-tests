@@ -2,6 +2,7 @@ import static org.junit.jupiter.api.Assertions.assertTimeoutPreemptively;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.nio.file.Path;
+import java.time.Duration;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -395,12 +396,12 @@ public class Project4Test extends TestUtilities {
 		@Test
 		public void testIndexMultithreaded() {
 			String link = "https://www.cs.usfca.edu/~cs212/javadoc/api/allclasses-index.html";
-			int limit = 50;
+			int limit = 30; // smaller to speed up benchmark
 
 			String[] args1 = {
 					HTML_FLAG, link,
 					MAX_FLAG, Integer.toString(limit),
-					THREADS_FLAG, String.valueOf(1) };
+					THREADS_FLAG, String.valueOf(2) };
 
 			String[] args2 = {
 					HTML_FLAG, link,
@@ -408,19 +409,19 @@ public class Project4Test extends TestUtilities {
 					THREADS_FLAG, String.valueOf(BENCH_THREADS) };
 
 			System.out.println();
-			System.out.printf("### Testing Build 1 vs %d Workers...%n", BENCH_THREADS);
+			System.out.printf("### Testing Build 2 vs %d Workers...%n", BENCH_THREADS);
 
 			// make sure code runs without exceptions before testing
-			testNoExceptions(args1, SHORT_TIMEOUT);
-			testNoExceptions(args2, SHORT_TIMEOUT);
+			testNoExceptions(args1, Duration.ofMinutes(3));
+			testNoExceptions(args2, Duration.ofMinutes(3));
 
 			// then test the timing
 			assertTimeoutPreemptively(LONG_TIMEOUT, () -> {
-				double result = Project3bTest.compare("1 Worker", args1, String.valueOf(BENCH_THREADS) + " Workers", args2);
+				double result = Project3bTest.compare("2 Workers", args1, String.valueOf(BENCH_THREADS) + " Workers", args2);
 
 				assertTrue(result >= 1.1, () -> String.format(
 						"%d workers has a %.2fx speedup (less than the 1.1x required) compareed to %s.", 
-						BENCH_THREADS, result, "1 worker"));
+						BENCH_THREADS, result, "2 workers"));
 			});
 		}
 	}
@@ -429,7 +430,7 @@ public class Project4Test extends TestUtilities {
 	public static final Path EXPECTED_CRAWL = EXPECTED_PATH.resolve("crawl");
 	
 	/** The default number of threads to use when benchmarking. */
-	public static final int BENCH_THREADS = Project3bTest.BENCH_THREADS;
+	public static final int BENCH_THREADS = 5;
 	
 	/**
 	 * Runs an individual test of the web crawler inverted index output.
