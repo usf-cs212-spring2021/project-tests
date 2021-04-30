@@ -350,8 +350,14 @@ public class TestUtilities {
 				if (Files.isRegularFile(path)) {
 					if (!Files.isReadable(other) || Files.size(path) != Files.size(other)) {
 						String original = Files.readString(path, StandardCharsets.UTF_8);
-						String modified = original.replace('/', '\\');
-						Files.writeString(other, modified, StandardCharsets.UTF_8);
+						
+						if (path.startsWith(Path.of("expected", "crawl"))) {
+							Files.writeString(other, original, StandardCharsets.UTF_8);
+						}
+						else {
+							String modified = original.replace('/', '\\');
+							Files.writeString(other, modified, StandardCharsets.UTF_8);
+						}
 						copied.add(other);
 					}
 				}
