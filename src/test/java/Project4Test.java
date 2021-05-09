@@ -1,8 +1,14 @@
 import static org.junit.jupiter.api.Assertions.assertTimeoutPreemptively;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.fail;
 
+import java.io.OutputStream;
+import java.io.PrintStream;
+import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.time.Instant;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -251,6 +257,7 @@ public class Project4Test extends TestUtilities {
 		 */
 		@Test
 		@Order(6)
+		@Tag("verify") // FIXME Added tag
 		public void testRFCs() {
 			String link = "https://www.cs.usfca.edu/~cs212/rfcs/";
 			testCounts(link, 7);
@@ -261,6 +268,7 @@ public class Project4Test extends TestUtilities {
 		 */
 		@Test
 		@Order(7)
+		@Tag("verify") // FIXME Added tag
 		public void testGutenberg() {
 			String link = "https://www.cs.usfca.edu/~cs212/guten/";
 			testCounts(link, 8);
@@ -318,7 +326,8 @@ public class Project4Test extends TestUtilities {
 		@Order(3)
 		@ParameterizedTest
 		@ValueSource(booleans = {true, false})
-		@Tag("verify")
+		// FIXME Removing tag
+		// @Tag("verify")
 		public void testLocal(boolean exact) {
 			String seed = "https://www.cs.usfca.edu/~cs212/local.html";
 			int max = 200;
@@ -333,7 +342,8 @@ public class Project4Test extends TestUtilities {
 		@Order(4)
 		@ParameterizedTest
 		@ValueSource(booleans = {true, false})
-		@Tag("verify")
+		// FIXME Removing tag
+		// @Tag("verify")
 		public void testRFCs(boolean exact) {
 			String seed = "https://www.cs.usfca.edu/~cs212/rfcs/";
 			int max = 7;
@@ -348,7 +358,8 @@ public class Project4Test extends TestUtilities {
 		@Order(5)
 		@ParameterizedTest
 		@ValueSource(booleans = {true, false})
-		@Tag("verify")
+		// FIXME Removing tag
+		// @Tag("verify")
 		public void testGuten(boolean exact) {
 			String seed = "https://www.cs.usfca.edu/~cs212/guten/";
 			int max = 8;
@@ -383,7 +394,7 @@ public class Project4Test extends TestUtilities {
 		 * Tests that the inverted index output remains consistent when repeated.
 		 */
 		@Order(1)
-		@RepeatedTest(3)
+		@RepeatedTest(2) // FIXME Reduced value from 2 to 3
 		public void testIndexConsistency() {
 			new A_IndexTest().testJava();
 		}
@@ -413,11 +424,12 @@ public class Project4Test extends TestUtilities {
 
 			// make sure code runs without exceptions before testing
 			testNoExceptions(args1, Duration.ofMinutes(3));
-			testNoExceptions(args2, Duration.ofMinutes(3));
+			// FIXME Removed to reduce connections
+			// testNoExceptions(args2, Duration.ofMinutes(3));
 
 			// then test the timing
 			assertTimeoutPreemptively(LONG_TIMEOUT, () -> {
-				double result = Project3bTest.compare("2 Workers", args1, String.valueOf(BENCH_THREADS) + " Workers", args2);
+				double result = compare("2 Workers", args1, String.valueOf(BENCH_THREADS) + " Workers", args2, 2, 4);
 
 				assertTrue(result >= 1.1, () -> String.format(
 						"%d workers has a %.2fx speedup (less than the 1.1x required) compareed to %s.", 
@@ -540,5 +552,114 @@ public class Project4Test extends TestUtilities {
 		}
 
 		return "";
+	}
+	
+	// FIXME: Duplicating these temporarily to deal with network connectivity issues.
+	
+	/**
+	 * Compares the runtime using two different sets of arguments. Outputs the
+	 * runtimes to the console just in case there are any anomalies.
+	 *
+	 * @param label1 the label of the first argument set
+	 * @param args1 the first argument set
+	 * @param label2 the label of the second argument set
+	 * @param args2 the second argument set
+	 * @param warmup number of warmup rounds
+	 * @param timed number of timed rounds 
+	 * @return the runtime difference between the first and second set of arguments
+	 */
+	public static double compare(String label1, String[] args1, String label2, String[] args2, int warmup, int timed) {
+		long[] runs1 = benchmark(args1, warmup, timed);
+		long[] runs2 = benchmark(args2, warmup, timed);
+
+		long total1 = 0;
+		long total2 = 0;
+
+		String labelFormat = "%-6s    %10s    %10s%n";
+		String valueFormat = "%-6d    %10.6f    %10.6f%n";
+
+		System.out.printf("%n```%n");
+		System.out.printf(labelFormat, "Warmup", label1, label2);
+		for (int i = 0; i < warmup; i++) {
+			System.out.printf(valueFormat, i + 1,
+					(double) runs1[i] / Duration.ofSeconds(1).toMillis(),
+					(double) runs2[i] / Duration.ofSeconds(1).toMillis());
+		}
+
+		System.out.println();
+		System.out.printf(labelFormat, "Timed", label1, label2);
+		for (int i = warmup; i < warmup + timed; i++) {
+			total1 += runs1[i];
+			total2 += runs2[i];
+			System.out.printf(valueFormat, i + 1,
+					(double) runs1[i] / Duration.ofSeconds(1).toMillis(),
+					(double) runs2[i] / Duration.ofSeconds(1).toMillis());
+		}
+
+		double average1 = (double) total1 / timed;
+		double average2 = (double) total2 / timed;
+
+		System.out.println();
+		System.out.printf("%10s:  %10.6f seconds%n", label1, average1 / Duration.ofSeconds(1).toMillis());
+		System.out.printf("%10s:  %10.6f seconds%n%n", label2, average2 / Duration.ofSeconds(1).toMillis());
+		System.out.printf("%10s: x%10.6f %n", "Speedup", average1 / average2);
+		System.out.printf("```%n%n");
+
+		return average1 / average2;
+	}
+
+	/**
+	 * Benchmarks the {@link Driver#main(String[])} method with the provided
+	 * arguments. Tracks the timing of every run to allow of visual inspection.
+	 *
+	 * @param args the arguments to run
+	 * @param warmup number of warmup rounds
+	 * @param timed number of timed rounds
+	 * @return an array of all the runtimes, including warmup runs and timed runs
+	 */
+	public static long[] benchmark(String[] args, int warmup, int timed) {
+		long[] runs = new long[warmup + timed];
+
+		Instant start;
+		Duration elapsed;
+
+		// suppress all console output for the warmup and timed runs
+		PrintStream systemOut = System.out;
+		PrintStream systemErr = System.err;
+
+		PrintStream nullStream = new PrintStream(OutputStream.nullOutputStream());
+		System.setOut(nullStream);
+		System.setErr(nullStream);
+
+		try {
+			for (int i = 0; i < warmup; i++) {
+				start = Instant.now();
+				Driver.main(args);
+				elapsed = Duration.between(start, Instant.now());
+				runs[i] = elapsed.toMillis();
+			}
+
+			for (int i = 0; i < timed; i++) {
+				start = Instant.now();
+				Driver.main(args);
+				elapsed = Duration.between(start, Instant.now());
+				runs[i + warmup] = elapsed.toMillis();
+			}
+		}
+		catch (Exception e) {
+			StringWriter writer = new StringWriter();
+			e.printStackTrace(new PrintWriter(writer));
+
+			String debug = String.format("%nArguments:%n    [%s]%nException:%n    %s%n",
+					String.join(" ", args), writer.toString());
+			fail(debug);
+		}
+		finally {
+			// restore console output
+			System.setOut(systemOut);
+			System.setErr(systemErr);
+		}
+
+		return runs;
 	}
 }

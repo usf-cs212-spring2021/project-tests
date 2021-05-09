@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.MethodOrderer.MethodName;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
@@ -33,8 +32,9 @@ public class Project3aTest extends TestUtilities {
 	 * Make sure single-threading seems to work before running any of the mutli-
 	 * threading tests.
 	 */
-	@BeforeAll
-	public static void testSingle() {
+	@Test
+	@Tag("verify")
+	public void testSingle() {
 		var project1 = new Project1Test().new A_OutputTest();
 		project1.testText();
 		
